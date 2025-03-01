@@ -1,0 +1,175 @@
+ :root{
+    --yellow: #FED136;
+    --grey: #777777;
+    --black: #222222;
+}
+.logo{
+    color: var(--yellow);
+    font-family: Bilbo Swash Caps ;
+    text-align: justify;
+}
+ul{
+    text-decoration: none;
+}
+p{
+    color: var(--grey);
+}
+footer{
+    background-color: var(--black);
+}
+.nav-footer{
+    color: white;
+    text-align: center;
+}
+button{
+    background-color: #FED136;
+    color: white;
+    text-align: center;
+}
+.title{
+    text-align: center;
+}
+.navigation-list{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    max-width: 934px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.nav-site{
+    padding-right: 40px;
+   
+}
+.contact-us{
+    max-width: 1404px;
+    margin: 0 auto;
+    margin: 0 15px;
+    height: 679px;
+}
+.logo{
+    font-size: 36px;
+    margin-right: 300px;
+    text-decoration: none;
+}
+.navigation{
+    color: var(--yellow);
+    text-decoration: none;
+    margin-right: 40px;
+    font-size: 14px;
+}
+.navigation-list{
+    align-items: center;
+    margin-top: 45px;
+}
+.title{
+    margin-top: 115px;
+    font-size: 40px;
+}
+.services{
+    display: flex;
+    margin-top: 205px;
+    list-style: none;
+    justify-content: center;
+    margin-bottom: 120px;
+}
+.services li{
+    margin-right: 65px;
+}
+h2{
+    font-size: 18px;
+    text-align: center;
+}
+.services li p{
+    font-size: 14px;
+    width: 304px;
+    height: 56px;
+    text-align: center;
+
+}
+.nav-footer{
+    font-size: 40px;
+    padding-top: 100px;
+    padding-bottom: 125px;
+}
+input{
+    width: 455px;
+    height: 50px;
+}
+textarea{
+    width: 458px;
+    height: 225px;
+}
+button{
+    padding-right: 45px;
+    padding-left: 45px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    font-size: 18px;
+    width: 240px;
+    height: 65px;
+    border: solid var(--yellow);
+    margin-left: 580px;
+}
+.questionnaire{
+    display: flex;
+    list-style: none;
+}
+input{
+    margin-bottom: 30px;
+}
+textarea{
+   margin-right: 400px; 
+   margin-left: 30px;
+}
+a{
+    font-family: Montserrat;
+}
+h2{
+    font-family: Montserrat;
+}
+h3{
+    font-family: Montserrat;
+}
+input{
+    font-family: Montserrat;
+}
+textarea{
+    font-family: Montserrat;
+}
+button{
+    font-family: Montserrat;
+}
+h1{
+    font-family: Montserrat;
+}
+p{
+    font-family: Roboto Slab;
+}
+.services{
+    margin-top: 132px;
+    text-align: center;
+}
+.services svg{
+    margin-bottom: 36px;
+}
+.title{
+    text-transform: uppercase;
+}
+.basket-svg{
+    border: 3px solid var(--yellow); 
+    padding: 20px;
+    border-radius: 40px;
+}
+.notebook-svg{
+    border: 3px solid var(--yellow); 
+    padding: 20px;
+    border-radius: 40px;
+}
+.locker-svg{
+    border: 3px solid var(--yellow); 
+    padding: 20px;
+    border-radius: 40px;
+}
